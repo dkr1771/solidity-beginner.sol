@@ -38,3 +38,5 @@ contract MyToken {
             balances[_address] -= _value;
         }
     }
+
+}
